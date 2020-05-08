@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    min-width: 300px;
+}
+
